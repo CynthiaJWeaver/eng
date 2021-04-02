@@ -1,0 +1,5 @@
+---
+deployment:
+tasks:
+- export Deploypath=/home1/wordwea5/public_html/
+-/bin/cp -R * $DEPLOYPATH
